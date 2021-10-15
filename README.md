@@ -17,7 +17,7 @@ build image `docker build -t quangostudio\changecloth`
 run docker `docker-compose up`
 
 # Input
-input api `image` and `image2`
+input api `image`(human) and `image2`(clothes)
 return image base64 decode
 convert image base64 decode to `.png` in path `/result/`
 
