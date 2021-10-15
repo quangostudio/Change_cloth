@@ -23,7 +23,7 @@ return image base64 decode
 convert image base64 decode to `.png` in path `/result/`
 
 # Test with Postman
-<img src="" title="Test api with inpurt and result return"> 
+<img src="https://github.com/quangostudio/Change_cloth/blob/main/1.PNG" title="Test api with inpurt and result return"> 
 
 # Return result
 `data = {
