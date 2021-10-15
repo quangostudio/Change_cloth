@@ -24,6 +24,20 @@ convert image base64 decode to `.png` in path `/result/`
 # Test with Postman
 <img src="" title="Test api with inpurt and result return"> 
 
+# Return result
+`data = {
+        "status": True,
+        "result": base64_decode,
+        "input": {
+            "human": base64_decode,
+            "clothes": base64_decode
+        },
+        "time": {
+            "spendtime": time process and infer,
+            "timestamp": timestamp
+        },
+    }`
+
 ## GMM
 <a href="https://arxiv.org/abs/1711.08447v1"> VITON: An Image-based Virtual Try-on Network </a>
 
