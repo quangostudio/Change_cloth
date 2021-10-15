@@ -7,6 +7,7 @@ change_cloth use model GMM, CVPTON and JPPNET write to api use flask
 3. Run api `python3 run.py`
 
 # packages
+`pip3 install -r requirements.txt`
 tensorflow==1.12.0 or tensorflow == 1.15
 torch==1.2.0  
 torchvision==0.2.0  
