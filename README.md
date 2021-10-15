@@ -28,4 +28,4 @@ convert image base64 decode to `.png` in path `/result/`
 ## JPPNET
 <a href="https://arxiv.org/abs/1804.01984"> Look into Person: Joint Body Parsing & Pose Estimation Network and A New Benchmark </a> 
 
-*Powered By **ducquan**
+*Powered By **ducquan***
