@@ -1,0 +1,13 @@
+flask
+jsonify
+click==6.7
+Flask==0.12.2
+Flask-API==1.0
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe
+Werkzeug==0.12.2
+gunicorn
+tensorflow==1.15.0
+torch==1.5.0
+torchvision

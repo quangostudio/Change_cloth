@@ -1,0 +1,7 @@
+version: "3.6"
+services:
+  app:
+    image: quangostudio/python:v1
+    ports:
+      - "5000:5555"
+    restart: unless-stopped
